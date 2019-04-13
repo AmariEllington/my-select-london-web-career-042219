@@ -3,8 +3,8 @@ def my_select(collection)
   collection = []
 
   while  i < collection.length
-    
-    
+
+
   end
 
     end
