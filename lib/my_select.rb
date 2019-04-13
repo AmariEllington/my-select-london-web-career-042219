@@ -3,5 +3,3 @@ def my_select(collection)
   saved_block = Proc.new {
     my_select(empty_array) do |x
     end
-
-
