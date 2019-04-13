@@ -1,4 +1,10 @@
 def my_select(collection)
-  empty_array = []
+  i = 0
+  collection = []
+
+  while  i < collection.length
+    
+    
+  end
 
     end
