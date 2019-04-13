@@ -1,4 +1,5 @@
 def my_select(collection)
+  collection = []
     i = 0
     while i < array.length
       yield(array[i])
